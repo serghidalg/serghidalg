@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+ <img src="media/ia_character.gif" width="620px">
+</p>
+
 <!--
 **serghidalg/serghidalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
