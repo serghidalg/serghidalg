@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
- <img src="media/ia_character.gif" width="620px">
+ <img src="media/banner.png" width="1024px">
 </p>
 
 <!--
