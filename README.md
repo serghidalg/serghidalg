@@ -4,11 +4,15 @@
  <img src="media/banner.png" width="1024px">
 </p>
 
-<!--
-**serghidalg/serghidalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World!
+Greetings and welcome to my GitHub profile. Delve into a curated collection of my most noteworthy projects, where innovation converges with dedication. Explore open-source tools meticulously crafted to empower and contribute to the thriving open source community. Your journey into the realm of code awaits!
 
-Here are some ideas to get you started:
+<p align="left">
+ <img src="https://raw.githubusercontent.com/serghidalg/interactive-resume/master/files/interactive-resume.gif" width="1024px">
+</p>
 
+## Interactive Resume
+If you have not checked already my interactive resume tool, please do so!!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
