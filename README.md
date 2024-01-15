@@ -12,5 +12,5 @@ Greetings and welcome to my GitHub profile. Delve into a curated collection of m
 </p>
 
 ## Interactive Resume
-If you have not checked already my (interactive resume tool)[https://cv.serghidalg.xyz], please do so!!
+If you have not checked already my [interactive resume tool](https://cv.serghidalg.xyz), please do so!!
 
