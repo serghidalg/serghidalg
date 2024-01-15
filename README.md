@@ -15,7 +15,7 @@ Greetings and welcome to my GitHub profile. Delve into a curated collection of m
 If you have not checked already my [interactive resume tool](https://cv.serghidalg.xyz), please do so!!
 
 ## Remarkable Projects
-[![Interactive Resume](https://github-readme-stats.vercel.app/api/pin/?username=serghidalg&repo=interactive-resume)](https://github.com/serghidalg/interactive-resume)
+[![Interactive Resume](https://github-readme-stats.vercel.app/api/pin/?username=serghidalg&repo=interactive-resume&theme=dracula)](https://github.com/serghidalg/interactive-resume)
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serghidalg&show_icons=true&theme=dracula)](https://github.com/serghidalg)
